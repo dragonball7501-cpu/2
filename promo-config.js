@@ -4,7 +4,7 @@ window.PROMO = {
 
     image: "images/promo-rose.png",
 
-    link: "paket/Rose.html",
+    link: "paket/Orchid.html",
 
     alt: "Promo Paket Rose"
 
